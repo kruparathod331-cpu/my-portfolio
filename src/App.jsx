@@ -23,7 +23,7 @@ function App() {
         <article>
           <h3>My First Project</h3>
           <p>A website I created using HTML, CSS, and JavaScript.</p>
-          <a href="https://github.com/YOUR-USERNAME/YOUR-PROJECT">
+          <a href="https://github.com/kruparathod331-cpu/my-portfolio.git">
             View project code
           </a>
         </article>
